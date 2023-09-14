@@ -16,7 +16,7 @@
 * Puppeteer
 
 ## ScreenShots :
-* Text editor with various option of Inputs :
+* Text editor with various formats of Inputs :
   <img width="1431" alt="Screenshot 2023-09-15 at 3 56 47 AM" src="https://github.com/PARASnagpal99/CollabFlow/assets/86076130/90fc0587-91f3-41d4-a43b-1847183957ff">
   
 * Real Time Collaboration of users in same Room Made Possible with Power of WebSockets :
