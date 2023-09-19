@@ -25,4 +25,11 @@
 * Share Your Doc after collaborating with multiple people by downloading in form of PDF .
    <img width="1427" alt="Screenshot 2023-09-15 at 3 57 37 AM" src="https://github.com/PARASnagpal99/CollabFlow/assets/86076130/7a2e0e69-ca77-4530-a51d-cf72f8a0d657">
 
+## TODO LIST 
+- [] Authentication and Authorization using JWT token 
+- [] Sharing the private document by making a public link
+- [] Option to either make a public document (with read only for others) and a private document
+- [] Storing Encrypting file in data base for privacy and security purposes 
+
+
 
